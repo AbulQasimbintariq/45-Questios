@@ -51,3 +51,13 @@ console.log(`My favourite number is ${Num}`)
 // Following is about myself
 let Dish:string="Plaao"
 console.log(`I like ${Dish} very much.`)
+
+**Question 11**
+let friends =["Saif","kaleem","haider"]
+let dishes=["Plaao","Biryani","TIkka",'Chest']
+for(let Friends_list of friends){
+    console.log(Friends_list)
+}
+for(let Dishes of dishes){
+console.log(Dishes)
+}
