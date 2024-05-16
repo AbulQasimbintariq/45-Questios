@@ -1,4 +1,4 @@
-# coding
+# 45 Questions
 **Coding Day 1**
 Question 2
 
