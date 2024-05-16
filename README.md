@@ -1,5 +1,4 @@
 # 45 Questions
-**Coding Day 1**
 **Question 2**
 
 let Name:string="Qasim Bhalli"
